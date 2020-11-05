@@ -1,4 +1,6 @@
-9b461fe8f1a0148c567108c7c909365b
+To run this project you should:
 
-
-http://data.fixer.io/api/latest?access_key=9b461fe8f1a0148c567108c7c909365b&format=1
+1. Open cmd command and type "npm install";
+2. type node app.js in cmd;
+3. open localhost:3000 on your browser
+4. Enjoy
